@@ -1,4 +1,4 @@
-# Movie 🎬 Paradise 🎥
+# Movie 🎬 APPP 🎥
 
 ![Screenshot](https://github.com/halilozel1903/AndroidTVMovieParadise/blob/master/screenshots/androidtv.png)
 
@@ -35,7 +35,7 @@ The App has 4 category.
 
 ## Now Playing ▶️
 
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/nowplaying_focus.png)
+![Screenshot](https://play-lh.googleusercontent.com/2X-K8Bfyx-esxe-lbISWtNbG0zsiqur0XhDeW0ciszGn6FcbeLyZHJZHLIgeMoipOtg)
 
 ## Top ✍🏻 Rated 🔝
 
@@ -43,21 +43,13 @@ The App has 4 category.
 
 ## Popular 🥳
 
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/popular.png)
+![Screenshot](https://1.bp.blogspot.com/-OsRCkwIBnjc/XgsXH9GhISI/AAAAAAAA090/RuHH5GEEhosIfPk5vSN76q-bQto5Mgr2gCLcBGAsYHQ/s1600/80614004_1066943050343144_2811171896140234752_n.jpg)
 
 
 ## Upcoming 🔜
 
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/upcoming.png)
+![Screenshot](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2022/04/peliculas-gratis-rtve-play-2687101.jpg?itok=qCyeNGyS)
 
-
-## Detail 📜 Screen ✅
-
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/detail.png)
-
-The detail page shows many content. Title, Poster, Labels, Director, Overview
-
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/detail_area.png)
 
 
 ## Detail Screen Recommend 🎁
@@ -67,57 +59,11 @@ The detail page shows many content. Title, Poster, Labels, Director, Overview
 
 ## Detail Screen Cast 🙎🏼‍♀️ 👨
 
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/detail_cast.png)
+![Screenshot](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2017/12/actores-taquilleros-2017.jpg?itok=9-hEql5s)
 
 
 ## Search Screen 🔎
 
 You can search for the desired movie on the search screen.
 
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/search.png)
-
-Search results are displayed instantly.
-
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/search_result.png)
-
-We searched the SpiderMan movie. You can view the detail of the movie.
-
-![Screenshot](https://github.com/halilozel1903/MovieParadise/blob/master/screenshots/search_result_detail.png)
-
-## Sources 📚
-
-- [How to develop Android TV App?](https://halilozel1903.medium.com/how-to-develop-android-tv-app-5e251f3aa56b)
-- [Android TV](https://developer.android.com/tv/) <br>
-- [Building an Android TV app](https://medium.com/@Marcus_fNk/building-an-android-tv-app-part-1-7f59b3747446)<br>
-
-## Donation 💸
-
-If this project help 💁 you reduce time to develop, you can give me a cup of coffee. ☕
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
-
-## License ℹ️
-```
-MIT License
-
-Copyright (c) 2022 Halil OZEL
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
